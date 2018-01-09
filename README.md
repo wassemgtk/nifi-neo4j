@@ -1,4 +1,7 @@
 #### A NiFi Connection Pool Service and Cypher Processors for Neo4j 3.0
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/53c3e4e2e4334133a1790c4b46ea8800)](https://www.codacy.com/app/Qordoba/nifi-neo4j?utm_source=github.com&utm_medium=referral&utm_content=wassemgtk/nifi-neo4j&utm_campaign=badger)
+
 A collection of tools for accessing Neo4j graph databases from Apache NiFi.
 
 **_This is alpha quality software and is not currently actively maintained. It is not intended for use in a production environment._**
